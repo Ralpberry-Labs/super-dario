@@ -1,0 +1,5 @@
+raw/
+gen.log
+prompts.jsonl
+.DS_Store
+__pycache__/
